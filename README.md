@@ -1,8 +1,8 @@
-# React + Vite
+# Tech Care Website with Api Get using React 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![download](https://github.com/XTRMDTECHGUY1/Health-Care-website/assets/88555638/0402ea07-7014-4836-b37e-a6a62da98332)
+![download (1)](https://github.com/XTRMDTECHGUY1/Health-Care-website/assets/88555638/19a948d2-ad24-4341-b119-d3d2f5f94e44)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
